@@ -2,7 +2,7 @@ package helloworld
 
 class HelloworldController {
 
-    def index() { 
+   def index() { 
 		render(view: 'hello')
 	}
 	def update(String nameField){
