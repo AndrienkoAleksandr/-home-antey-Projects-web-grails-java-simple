@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: -home-antey-Projects-web-grails-java-simple
+  annotations:
+    github.com/project-slug: AndrienkoAleksandr/-home-antey-Projects-web-grails-java-simple
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/test-user
